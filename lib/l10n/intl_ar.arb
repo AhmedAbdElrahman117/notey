@@ -1,0 +1,377 @@
+{
+  "@@locale": "ar",
+  "appTitle": "مذكرتي",
+
+  "biometricAuthReason": "يرجى المصادقة لفتح التطبيق",
+  "biometricNotAvailable": "المصادقة البيومترية غير متوفرة على هذا الجهاز",
+  "biometricAuthError": "حدث خطأ أثناء المصادقة البيومترية",
+  "biometricAuthFailed": "فشلت المصادقة البيومترية. {error}",
+
+  "login": "تسجيل الدخول",
+  "loginDescription": "سجّل دخولك لمزامنة ملاحظاتك والاحتفاظ بنسخة احتياطية آمنة عبر جميع أجهزتك",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "signUp": "إنشاء حساب",
+
+  "enterYourEmail": "أدخل بريدك الإلكتروني",
+  "email": "البريد الإلكتروني",
+  "emailRequired": "البريد الإلكتروني مطلوب",
+  "invalidEmail": "بريد إلكتروني غير صالح",
+
+  "enterYourPassword": "أدخل كلمة المرور",
+  "password": "كلمة المرور",
+  "passwordRequired": "كلمة المرور مطلوبة",
+  "passwordNoSpaces": "لا يمكن أن تحتوي كلمة المرور على مسافات",
+  "passwordMinLength": "يجب أن تحتوي كلمة المرور على 6 أحرف على الأقل",
+
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "skip": "تخطي الآن",
+  "orLoginWith": "أو سجّل الدخول باستخدام",
+
+  "signUpDescription": "أنشئ حساباً لمزامنة ملاحظاتك والاحتفاظ بها بأمان في كل مكان",
+  "createAccount": "إنشاء حساب",
+  "followPasswordConstraints": "يرجى الالتزام بمتطلبات كلمة المرور",
+  "accountCreatedSuccessfully": "تم إنشاء الحساب بنجاح",
+
+  "forgotYourPassword": "نسيت كلمة المرور؟",
+  "resetPasswordDescription": "أدخل بريدك الإلكتروني لتلقي رمز التحقق وإعادة تعيين كلمة المرور",
+  "sendOtp": "إرسال رمز التحقق",
+
+  "passwordChangedSuccessfully": "تم تغيير كلمة المرور بنجاح",
+  "changePassword": "تغيير كلمة المرور",
+  "changePasswordDescription": "يجب أن تحتوي كلمة المرور الجديدة على التالي",
+
+  "verifyYourEmail": "تحقق من بريدك الإلكتروني",
+  "otpSentTo": "لقد أرسلنا رمز التحقق إلى ",
+  "checkInboxAndSpam": "\nيرجى التحقق من صندوق الوارد والرسائل غير المرغوب فيها.",
+  "didntReceiveCode": "لم يصلك الرمز؟",
+  "availableInSeconds": "يمكنك إعادة الإرسال بعد {seconds} ثانية",
+  "resendCode": "إعادة إرسال الرمز",
+
+  "enterYourUsername": "أدخل اسم المستخدم",
+  "username": "اسم المستخدم",
+  "usernameRequired": "اسم المستخدم مطلوب",
+  "usernameInvalid": "يجب أن يبدأ اسم المستخدم بحرف ويحتوي على أحرف وأرقام فقط",
+
+  "confirmYourPassword": "تأكيد كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "passwordConfirmationRequired": "تأكيد كلمة المرور مطلوب",
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+
+  "enterOtp": "أدخل رمز التحقق",
+  "invalidOtp": "رمز التحقق غير صالح",
+
+  "constraintLength": "6 أحرف على الأقل",
+  "constraintUppercase": "حرف كبير واحد على الأقل",
+  "constraintSpecialChar": "رمز خاص واحد على الأقل",
+  "constraintNumbers": "رقمان على الأقل",
+
+  "failedToSendOtp": "فشل إرسال رمز التحقق، يرجى المحاولة لاحقاً",
+  "failedToResetPassword": "تعذرت إعادة تعيين كلمة المرور. حاول مرة أخرى.",
+
+  "noFavouriteNotes": "لا توجد ملاحظات مفضلة",
+  "noNotesYet": "لا توجد ملاحظات بعد",
+  "noFavouriteNotesDescription": "لم تقم بإضافة أي ملاحظات إلى المفضلة بعد.",
+  "noNotesYetDescription": "اضغط على زر + لإنشاء أول ملاحظة.",
+
+  "favouriteModeOn": "تم تفعيل وضع المفضلة",
+
+  "all": "الكل",
+  "uncategorized": "غير مصنّف",
+  "noResultsFound": "لا توجد نتائج",
+
+  "removeFromFavourites": "إزالة من المفضلة",
+  "addToFavorites": "إضافة إلى المفضلة",
+
+  "delete": "حذف",
+
+  "notSynced": "غير متزامنة",
+  "synced": "متزامنة",
+
+  "noContent": "لا يوجد محتوى",
+  "untitled": "ملاحظة بدون عنوان",
+
+  "sortBy": "ترتيب حسب",
+  "filterTitle": "حسب العنوان",
+  "filterCategory": "حسب التصنيف",
+  "filterCreatedAt": "حسب تاريخ الإنشاء",
+
+  "ascending": "تصاعدي",
+  "descending": "تنازلي",
+
+  "onboardingTitle1": "ملاحظاتك دائماً معك",
+  "onboardingDescription1": "دوّن أفكارك دون اتصال بالإنترنت وزامنها عبر أجهزتك",
+
+  "onboardingTitle2": "أكثر من مجرد نص",
+  "onboardingDescription2": "أضف صوراً وملاحظات صوتية وصدّر ملاحظاتك بصيغ متعددة مثل PDF وWord",
+
+  "onboardingTitle3": "خصوصيتك أولاً",
+  "onboardingDescription3": "ملاحظاتك محمية بتشفير كامل من طرف إلى طرف — لا يمكن لأحد سواك الوصول إليها",
+
+  "getStarted": "ابدأ الآن",
+  "next": "التالي",
+  "previous": "السابق",
+
+  "settings": "الإعدادات",
+
+  "createPassword": "إنشاء كلمة مرور",
+  "createPasswordDescription": "لزيادة أمان ملاحظاتك، يرجى إنشاء كلمة مرور",
+  "createPasswordNote": "ملاحظة: لا يمكن استعادة كلمة المرور في حال نسيانها.",
+
+  "enterPassword": "أدخل كلمة المرور",
+  "enterPasswordDescription": "يرجى إدخال كلمة المرور للوصول إلى هذا الملف",
+
+  "conflictDetected": "تم اكتشاف تعارض في {dbName}",
+  "conflictDescription": "يوجد بالفعل {dbName} على هذا الجهاز. كيف تود التعامل مع البيانات المستوردة؟",
+  "replaceExistingData": "استبدال البيانات الحالية",
+  "mergeWithExistingData": "دمج مع البيانات الحالية",
+  "cancelImport": "إلغاء الاستيراد",
+
+  "notes": "الملاحظات",
+  "categories": "التصنيفات",
+
+  "logout": "تسجيل الخروج",
+  "logoutConfirmation": "هل أنت متأكد من تسجيل الخروج؟",
+
+  "pickLanguage": "اختر اللغة",
+  "choosePreferredLanguage": "حدد لغتك المفضلة",
+
+  "aboutNotey": "حول مذكرتي",
+  "appVersion": "الإصدار 1.0.0",
+  "appLegalese": "© 2025 نوتي. جميع الحقوق محفوظة.",
+
+  "disableAppLock": "تعطيل قفل التطبيق",
+  "enableAppLock": "تفعيل قفل التطبيق",
+  "appLockSubtitle": "استخدم البصمة أو التعرف على الوجه أو النمط أو رمز PIN لتأمين التطبيق",
+  "authToChangeAppLock": "يرجى المصادقة لتغيير إعدادات قفل التطبيق",
+  "authFailed": "فشلت المصادقة. حاول مرة أخرى.",
+
+  "exportNotes": "تصدير الملاحظات",
+  "importNotes": "استيراد الملاحظات",
+
+  "language": "اللغة",
+  "languageSubtitle": "اختر لغتك المفضلة",
+
+  "guestUser": "مستخدم زائر",
+  "loginToSync": "سجّل الدخول لمزامنة ملاحظاتك عبر جميع أجهزتك",
+
+  "notAvailable": "غير متاح",
+
+  "syncNotes": "مزامنة الملاحظات",
+  "syncNotesSubtitle": "مزامنة الملاحظات تلقائياً مع السحابة",
+
+  "darkMode": "الوضع الداكن",
+  "enableDarkMode": "تفعيل الوضع الداكن",
+  "disableDarkMode": "تعطيل الوضع الداكن",
+
+  "exportedSuccessfully": "تم التصدير بنجاح",
+  "importedSuccessfully": "تم الاستيراد بنجاح",
+
+  "langEnglish": "الإنجليزية",
+  "langArabic": "العربية",
+  "langFrench": "الفرنسية",
+  "langGerman": "الألمانية",
+  "langSpanish": "الإسبانية",
+  "langItalian": "الإيطالية",
+  "langJapanese": "اليابانية",
+  "langChinese": "الصينية",
+  "langTurkish": "التركية",
+  "langKorean": "الكورية",
+  "langRussian": "الروسية",
+  "langIndian": "الهندية",
+
+  "invalidFile": "ملف غير صالح",
+  "noPasswordProvided": "لم يتم إدخال كلمة المرور",
+  "noFileSelected": "لم يتم اختيار أي ملف",
+  "wrongPasswordOrCorrupted": "كلمة المرور غير صحيحة أو الملف تالف",
+  "noOutputDirectorySelected": "لم يتم اختيار مجلد الإخراج",
+
+  "searchNotePlaceholder": "ابحث في العنوان أو المحتوى...",
+
+  "confirm": "تأكيد",
+  "cancel": "إلغاء",
+  "pleaseWait": "يرجى الانتظار...",
+  "success": "تم بنجاح",
+  "error": "حدث خطأ",
+
+  "noteTitle": "عنوان الملاحظة",
+  "noteContent": "محتوى الملاحظة",
+
+  "deleteNote": "حذف الملاحظة",
+  "deleteNoteConfirmation": "هل أنت متأكد من حذف هذه الملاحظة؟",
+
+  "removeImage": "إزالة الصورة",
+  "removeImageConfirmation": "هل تريد إزالة هذه الصورة من الملاحظة؟",
+  "remove": "إزالة",
+
+  "extractAs": "تصدير بصيغة",
+  "textFileTxt": "ملف نصي (.txt)",
+  "pdfFilePdf": "ملف PDF (.pdf)",
+
+  "theme": "المظهر",
+  "print": "طباعة",
+  "color": "اللون",
+  "background": "الخلفية",
+  "images": "الصور",
+
+  "selectCategory": "اختر التصنيف",
+  "share": "مشاركة",
+  "style": "النمط",
+  "image": "صورة",
+  "more": "المزيد من الخيارات",
+
+  "noteAdded": "تمت إضافة الملاحظة",
+  "shareFailed": "فشلت المشاركة",
+  "shareError": "حدث خطأ أثناء مشاركة الملاحظة",
+
+  "cannotCreateImagesDirectory": "خطأ داخلي: تعذر إنشاء مجلد الصور ({error})",
+  "directoryError": "خطأ في المجلد: {message}",
+  "fileSystemError": "خطأ في نظام الملفات: {message}",
+  "platformError": "خطأ في النظام: {message}",
+  "internalError": "خطأ داخلي: {message}",
+
+  "bold": "عريض",
+  "italic": "مائل",
+  "underline": "تسطير",
+  "strikethrough": "يتوسطه خط",
+  "fontSize": "حجم الخط",
+  "fontColor": "لون الخط",
+
+  "bulletList": "قائمة نقطية",
+  "numberedList": "قائمة مرقمة",
+  "checklist": "قائمة مهام",
+
+  "subscript": "نص سفلي",
+  "superscript": "نص علوي",
+  "codeBlock": "كتلة كود",
+
+  "noCategoriesYet": "لا توجد تصنيفات بعد",
+  "noCategoriesDescription": "أضف تصنيفات لتنظيم ملاحظاتك بشكل أفضل",
+
+  "categoriesTitle": "التصنيفات",
+  "categoriesSubtitle": "يمكنك إدارة تصنيفاتك من هنا",
+
+  "editCategory": "تعديل التصنيف",
+  "addCategory": "إضافة تصنيف",
+  "changeCategoryName": "تغيير اسم التصنيف",
+
+  "createCategoryDescription": "أنشئ تصنيفاً جديداً لتنظيم ملاحظاتك",
+
+  "edit": "تعديل",
+  "add": "إضافة",
+
+  "categoryNameHint": "اسم التصنيف",
+
+  "deleteCategory": "حذف التصنيف",
+  "deleteCategoryConfirmation": "هل أنت متأكد من حذف هذا التصنيف؟ لا يمكن التراجع عن هذا الإجراء.",
+
+  "filterCategories": "تصفية التصنيفات",
+  "filterCategoriesDescription": "اختر طريقة ترتيب التصنيفات",
+
+  "filterName": "حسب الاسم",
+  "filterCreatedAtOption": "حسب تاريخ الإنشاء",
+
+  "addNewCategory": "إضافة تصنيف جديد",
+  "categoryUpdated": "تم تحديث التصنيف",
+  "categoryDeleted": "تم حذف التصنيف",
+  "categoryNameEmpty": "اسم التصنيف لا يمكن أن يكون فارغاً",
+
+  "secondsAgo": "{count, plural, =1{منذ ثانية واحدة} other{منذ {count} ثانية}}",
+  "minutesAgo": "{count, plural, =1{منذ دقيقة واحدة} other{منذ {count} دقيقة}}",
+  "hoursAgo": "{count, plural, =1{منذ ساعة واحدة} other{منذ {count} ساعة}}",
+  "daysAgo": "{count, plural, =1{منذ يوم واحد} other{منذ {count} يوم}}",
+  "monthsAgo": "{count, plural, =1{منذ شهر واحد} other{منذ {count} شهر}}",
+
+  "dbUniqueConstraintError": "خطأ في القيد الفريد: {result}",
+  "dbSyntaxError": "خطأ في بناء جملة SQL: {result}",
+  "dbClosedError": "قاعدة البيانات مغلقة: {result}",
+  "dbDuplicateColumnError": "قاعدة البيانات تحتوي على عمود مكرر: {result}",
+  "dbNoSuchTableError": "جدول قاعدة البيانات غير موجود: {result}",
+  "dbOpenFailedError": "فشل فتح قاعدة البيانات: {result}",
+  "dbGenericException": "خطأ في قاعدة البيانات: {result}",
+  "pathException": "حدث خطأ في المسار.",
+  "fileException": "حدث خطأ في الملف.",
+
+  "authEmailExists": "هذا البريد الإلكتروني مسجل بالفعل. جرّب تسجيل الدخول بدلاً من ذلك.",
+  "authUserAlreadyExists": "يوجد حساب بهذا البريد الإلكتروني أو الهاتف بالفعل. يرجى تسجيل الدخول.",
+  "authPhoneExists": "رقم الهاتف هذا مسجل بالفعل.",
+  "authWeakPassword": "كلمة المرور ضعيفة جداً. استخدم كلمة مرور أقوى تحتوي على أحرف وأرقام ورموز.",
+  "authEmailInvalid": "هذا لا يبدو كعنوان بريد إلكتروني صالح.",
+  "authEmailNotAuthorized": "هذا البريد الإلكتروني غير مسموح به للتسجيل. يرجى استخدام بريد آخر.",
+  "authSignupDisabled": "التسجيل معطل حالياً. يرجى الاتصال بالدعم.",
+  "authProviderDisabled": "طريقة التسجيل هذه غير متاحة. يرجى اختيار طريقة أخرى.",
+  "authCaptchaFailed": "فشل التحقق. يرجى إكمال فحص الأمان مرة أخرى.",
+  "authOverEmailRateLimit": "محاولات كثيرة جداً. يرجى التحقق من بريدك الوارد أو المحاولة لاحقاً.",
+  "authOverSmsRateLimit": "محاولات رسائل SMS كثيرة جداً. يرجى الانتظار بضع دقائق والمحاولة مرة أخرى.",
+  "authValidationFailed": "بعض البيانات التي أدخلتها غير صالحة. يرجى التحقق والمحاولة مرة أخرى.",
+  "authUnexpectedFailure": "حدث خطأ أثناء إنشاء حسابك. يرجى المحاولة مرة أخرى.",
+  "authInvalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة. يرجى المحاولة مرة أخرى.",
+  "authUserNotFound": "لم نتمكن من العثور على حساب بهذه البيانات.",
+  "authEmailNotConfirmed": "يرجى تأكيد بريدك الإلكتروني قبل تسجيل الدخول. تحقق من بريدك الوارد.",
+  "authUserBanned": "تم حظر حسابك. يرجى الاتصال بالدعم للمساعدة.",
+  "authSessionExpired": "انتهت صلاحية جلستك. يرجى تسجيل الدخول مرة أخرى.",
+  "authSessionNotFound": "لم نتمكن من العثور على جلسة تسجيل الدخول. يرجى تسجيل الدخول مرة أخرى.",
+  "authRefreshTokenNotFound": "انتهت صلاحية جلستك. يرجى تسجيل الدخول مرة أخرى.",
+  "authBadJwt": "جلسة تسجيل الدخول غير صالحة. يرجى تسجيل الدخول مرة أخرى.",
+  "authReauthenticationNeeded": "يرجى تسجيل الدخول مرة أخرى للمتابعة.",
+  "authOverRequestRateLimit": "محاولات تسجيل دخول كثيرة جداً. يرجى الانتظار قليلاً قبل المحاولة مرة أخرى.",
+  "authOauthProviderNotSupported": "طريقة تسجيل الدخول هذه غير مدعومة.",
+  "authBadOauthCallback": "لم نتمكن من الاتصال بـ Google. يرجى المحاولة مرة أخرى.",
+  "authBadOauthState": "حدث خطأ في تسجيل الدخول بـ Google. يرجى المحاولة مرة أخرى.",
+  "authProviderEmailNeedsVerification": "يرجى التحقق من بريد Google الإلكتروني قبل تسجيل الدخول.",
+  "authIdentityAlreadyExists": "حساب Google هذا مرتبط بالفعل بمستخدم آخر.",
+  "authManualLinkingDisabled": "لا يمكن ربط هذا الحساب يدوياً. يرجى تسجيل الدخول بالطريقة الرئيسية.",
+  "authDefaultError": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+
+  "googleSignInUnknownError": "حدث خطأ أثناء تسجيل الدخول. يرجى المحاولة مرة أخرى.",
+  "googleSignInCanceled": "تم إلغاء تسجيل الدخول. يرجى المحاولة مرة أخرى إذا كنت لا تزال ترغب في المتابعة.",
+  "googleSignInInterrupted": "تم مقاطعة عملية تسجيل الدخول. يرجى المحاولة مرة أخرى.",
+  "googleSignInClientConfigError": "هناك مشكلة في إعداد تسجيل الدخول بـ Google في التطبيق. يرجى الاتصال بالدعم.",
+  "googleSignInProviderConfigError": "تسجيل الدخول بـ Google غير مُهيأ بشكل صحيح. يرجى المحاولة لاحقاً.",
+  "googleSignInUiUnavailable": "تسجيل الدخول بـ Google غير متاح حالياً على هذا الجهاز.",
+  "googleSignInUserMismatch": "حساب Google هذا لا يتطابق مع المستخدم المتوقع. جرّب استخدام حساب مختلف.",
+
+  "functionsInvalidInput": "تم إرسال بيانات غير صالحة إلى الخادم.",
+  "functionsNotLoggedIn": "لم تقم بتسجيل الدخول. يرجى المصادقة.",
+  "functionsNoPermission": "ليس لديك صلاحية لتنفيذ هذا الإجراء.",
+  "functionsEndpointNotFound": "نقطة نهاية الخادم غير موجودة.",
+  "functionsTooManyRequests": "طلبات كثيرة جداً. يرجى التباطؤ.",
+  "functionsServerError": "حدث خطأ في الخادم. حاول مرة أخرى لاحقاً.",
+  "functionsTimeout": "انتهت مهلة الطلب. يرجى المحاولة مرة أخرى.",
+  "functionsDefaultError": "حدث خطأ في الخادم. يرجى المحاولة مرة أخرى.",
+
+  "supabaseDbNoPermission": "ليس لديك صلاحية لتنفيذ هذا الإجراء.",
+  "supabaseDbRlsBlocked": "تم حظر هذا الطلب بواسطة أمان مستوى الصف.",
+  "supabaseDbNotAuthorized": "غير مصرح لك. يرجى تسجيل الدخول أولاً.",
+  "supabaseDbNoAccess": "ليس لديك حق الوصول إلى هذا المورد.",
+  "supabaseDbTableNotExist": "الجدول الذي تحاول الوصول إليه غير موجود.",
+  "supabaseDbColumnNotExist": "العمود الذي تحاول الوصول إليه غير موجود.",
+  "supabaseDbFunctionNotExist": "هذه الدالة غير موجودة في قاعدة البيانات.",
+  "supabaseDbNotFound": "المورد المطلوب غير موجود.",
+  "supabaseDbDuplicateKey": "هذه القيمة موجودة بالفعل. يرجى استخدام قيمة مختلفة (مفتاح مكرر).",
+  "supabaseDbForeignKeyViolation": "هذا السجل مرتبط بسجل آخر ولا يمكن حذفه/تحديثه (انتهاك المفتاح الخارجي).",
+  "supabaseDbRequiredFieldMissing": "حقل مطلوب مفقود. يرجى ملء جميع التفاصيل المطلوبة.",
+  "supabaseDbCheckConstraint": "إحدى القيم لا تستوفي قواعد قاعدة البيانات (قيد التحقق).",
+  "supabaseDbInputTooLong": "أحد المدخلات طويل جداً. يرجى تقصيره والمحاولة مرة أخرى.",
+  "supabaseDbInvalidDateFormat": "تنسيق التاريخ أو الوقت غير صالح. يرجى استخدام التنسيق الصحيح.",
+  "supabaseDbInvalidInputType": "نوع الإدخال غير صالح. يرجى التحقق من بياناتك.",
+  "supabaseDbTooManyConnections": "قاعدة البيانات لديها اتصالات كثيرة جداً. يرجى المحاولة لاحقاً.",
+  "supabaseDbRequestCanceled": "استغرق الطلب وقتاً طويلاً وتم إلغاؤه. يرجى المحاولة مرة أخرى.",
+  "supabaseDbInternalError": "حدث خطأ داخلي في قاعدة البيانات. يرجى المحاولة لاحقاً.",
+  "supabaseDbUnexpectedError": "خطأ غير متوقع في قاعدة البيانات. يرجى المحاولة لاحقاً.",
+  "supabaseDbConflict": "هذا السجل موجود بالفعل. يرجى استخدام قيم مختلفة.",
+  "supabaseDbSyntaxError": "هناك مشكلة في استعلام قاعدة البيانات (خطأ في بناء الجملة).",
+  "supabaseDbInvalidRequest": "طلب غير صالح. يرجى التحقق من المعلومات التي أدخلتها.",
+  "supabaseDbDefaultError": "حدث خطأ في قاعدة البيانات. يرجى المحاولة مرة أخرى.",
+
+  "biometricLockedOut": "محاولات فاشلة كثيرة جداً. المصادقة البيومترية مقفلة مؤقتاً. يرجى المحاولة لاحقاً.",
+  "biometricPermanentlyLockedOut": "محاولات فاشلة كثيرة جداً. المصادقة البيومترية معطلة. يرجى فتح القفل باستخدام رمز PIN/كلمة المرور لإعادة تعيينها.",
+  "biometricNotAvailableDevice": "المصادقة البيومترية غير متاحة على هذا الجهاز.",
+  "biometricNotEnrolled": "لم يتم إعداد المصادقة البيومترية. يرجى تسجيل بصمة إصبع أو معرف الوجه في إعدادات جهازك.",
+  "biometricPasscodeNotSet": "لم يتم تعيين رمز المرور للجهاز. يرجى تهيئة رمز PIN أو النمط أو كلمة المرور في إعدادات جهازك.",
+  "biometricOtherOS": "المصادقة البيومترية غير مدعومة على نظام التشغيل هذا.",
+  "biometricUnknownError": "فشلت المصادقة البيومترية بسبب خطأ غير معروف.",
+
+  "networkError": "يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى.",
+  "timeoutError": "انتهت مهلة الاتصال. يرجى المحاولة مرة أخرى!",
+  "unknownError": "حدث خطأ غير معروف."
+}
