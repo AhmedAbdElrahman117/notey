@@ -51,10 +51,6 @@ With **custom categories**, **end-to-end encryption**, **exporting capabilities*
 * Automatically detects URLs inside notes.
 * Tap to open websites, emails, or phone numbers directly.
 
-### ⏰ Reminders & Notifications
-* Set **alarms and reminders** for specific notes.
-* Get **push notifications** so you never miss an important task.
-
 ### 📴 Offline-First
 * Notes are saved locally with **SQLite** by default.
 * Continue working without internet access.
